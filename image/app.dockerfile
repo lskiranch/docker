@@ -1,5 +1,5 @@
 # Docker image to use.
-FROM sloopstash/amazonlinux:v1
+FROM learning/amazonlinux:v1
 
 # Install Nginx.
 RUN set -x \
